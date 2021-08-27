@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.masyo-lab.favorites-asset": {
-      "version": "https://github.com/MasyoLab/UnityTools-FavoritesAsset.git",
+      "version": "https://github.com/MasyoLab/UnityTools-FavoritesAsset.git?path=Assets/MasyoLab/FavoritesAsset",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "92b1b0d513100c97a3a5dc6eee000fa8b9bf41b7"
+      "hash": "c5e272dd90fae1052b64fafa07e69400d680c0ea"
     },
     "com.unity.collab-proxy": {
       "version": "1.7.1",
